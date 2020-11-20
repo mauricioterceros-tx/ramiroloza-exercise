@@ -1,6 +1,9 @@
 # interview-exercise-ramiro-loza
 
-Use the following list and display as a table:
+- Clone this repo
+- Create a develop branch, and all yours changes should be commited to that branch.
+- Create an ANGULAR project from scratch.
+- Use the following JSON and display the client list in a table:
 
 ```
 {
